@@ -6,5 +6,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a CS student at Mansoura Unversity.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+- 👯 I’m looking for a web development Internship/Full-Time Opportunities
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imran1337/) [Yahoo](mailto:imran1337@yahoo.com)
