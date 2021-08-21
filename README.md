@@ -4,6 +4,6 @@
 
 I'm a self taught Javascript Developer who is passionate about writing code, solving problems and building website.
 
-- 📚 I’m currently mastering Vue Js.
+- 📚 I’m currently learning Vue Js.
 - 👯 I’m looking for a web development Full-Time Opportunities
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imran1337/) [Yahoo](mailto:imran1337@yahoo.com)
