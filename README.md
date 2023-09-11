@@ -6,7 +6,6 @@
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Javascript Logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  alt="Node Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  alt="Express Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" height="50"/>
