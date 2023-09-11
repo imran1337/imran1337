@@ -1,4 +1,4 @@
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img width="100%" align="top" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <h2 align="center"> Hey 👋! Pleased to meet you! I'm Imran ✨. If you have any questions, I would like to hear from you. Cheers! 🤙</h2>
 
