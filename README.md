@@ -1,6 +1,12 @@
-<img width="40%" align="center" alt="Github" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
 <h2 align="center"> Hey 👋! Pleased to meet you! I'm Imran ✨. If you have any questions, I would like to hear from you. Cheers! 🤙</h2>
+  <p align="center">
+<a href="https://khanwebdev.com">
+<img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=brigthgreen"></img>
+</a>
+<a href="mailto:imran1337@yahoo.com">
+<img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
+</a>
+</p>
 
 <h2 align="center">🛠️ My Toolbox: 🛠️</h2>
 <div align="center">
