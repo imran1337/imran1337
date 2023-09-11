@@ -24,5 +24,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"  alt="GraphQL logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  alt="Webpack logo" width="50" height="50"/>
 </div>
-
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imran1337/) [Yahoo](mailto:imran1337@yahoo.com)
